@@ -1,1 +1,1 @@
-## These are the solutons to famous algorithmic problems
+## These are the solutons to famous algorithmic problems:
